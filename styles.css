@@ -1,0 +1,10 @@
+:root {
+    --primary: #f396b5;
+    --text: #ffffff;
+    --text-acccent:#777;
+    --bs-body-font-family: 'Source Sans Pro' !important;
+  }
+
+body {
+  font-family: 'Source Sans Pro';
+}
